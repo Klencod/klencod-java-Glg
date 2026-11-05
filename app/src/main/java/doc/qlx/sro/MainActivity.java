@@ -1,4 +1,4 @@
-دpackage doc.qlx.sro;
+package doc.qlx.sro;
 
 import android.app.Activity;
 import android.os.Bundle;
